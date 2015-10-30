@@ -1,0 +1,14 @@
+layout_spectrum: 1
+color:
+  saturation: 0.812766
+  brandStrength: 0.6595744
+  lightness: 0.8808511
+  brandColors:
+    - '#000000'
+    - '#6E6E6E'
+    - '#FFFFFF'
+    - '#919191'
+    - '#B4B4B4'
+  rhythmicContrast: 0.5553191
+typography_spectrum: 0.5765957
+name: Kincher
