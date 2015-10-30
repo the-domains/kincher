@@ -4,11 +4,11 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'http://www.mensfitness.com/training/pro-tips/trainer-qa-do-ice-baths-help-muscle-soreness'
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2015-10-30T14:54:41.088Z'
-dateModified: '2015-10-30T14:54:21.271Z'
+datePublished: '2015-10-30T14:55:21.230Z'
+dateModified: '2015-10-30T14:55:13.778Z'
 author: []
 title: Ice Baths Do they Work?
 authors: []
