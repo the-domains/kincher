@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[The Kinch]]></title>
         <description><![CDATA[The Kinch]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/kincher/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 30 Oct 2015 14:54:53 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 30 Oct 2015 14:55:31 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/kincher/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Ice Baths Do they Work?]]></title>
             <description><![CDATA[<article><h1>Ice Baths Do they Work?</h1><img src="http://www.mensfitness.com/sites/mensfitness.com/files/styles/photo_gallery_full/public/_main_ice.jpg?itok=crTe9woF"></article>]]></description>
             <link>http://www.mensfitness.com/training/pro-tips/trainer-qa-do-ice-baths-help-muscle-soreness</link>
             <guid isPermaLink="false">061f11b4-62f3-4b3a-8bc8-1cb3d5fe4056</guid>
-            <pubDate>Fri, 30 Oct 2015 14:54:41 GMT</pubDate>
+            <pubDate>Fri, 30 Oct 2015 14:55:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
